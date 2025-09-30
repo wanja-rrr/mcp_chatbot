@@ -1,7 +1,0 @@
-2025-09-30 05:49:55,008 - ERROR - start: Skipping RedisService due to initialization failure!
-ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
-2025-09-30 05:49:55,086 - ERROR - interface_error: Internal Exception: list index out of range
-2025-09-30 05:52:45,741 - ERROR - start: Skipping RedisService due to initialization failure!
-ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
-2025-09-30 05:52:45,830 - ERROR - interface_error: Internal Exception: list index out of range
-2025-09-30 05:55:05,009 - ERROR - interface_error: Internal Exception: list index out of range
